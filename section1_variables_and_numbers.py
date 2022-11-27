@@ -71,6 +71,7 @@ EJERCICIO 2
 -convert the variable "suma" to string and name it "strSuma"
 -create a varaible "resultado" that concatenate the text "el resultado es " and the varaible strSuma
 """
+print("----ejercicio 2----")
 number1 = 5
 number2 = 3
 suma = number1 + number2
