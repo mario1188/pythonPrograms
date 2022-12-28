@@ -1,5 +1,5 @@
-print("hola")
-
+print("hello")
+print("world")
 
 """always start with a letter or underscore"""
 number = 5
